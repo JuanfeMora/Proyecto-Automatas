@@ -3,7 +3,9 @@
 Andrés Felipe Martínez, María Paula Herrera, Maia Catalina García, Johan Felipe Prado, Wilgton Sanchez, Juan José Monsalve, Frank Nicolás Chavez, Eduardo Zambrano y Yonier Gamboa Picón
 
 ---
-![[ImagenProyectoFinalAutomatas.png]]
+
+
+![Simulador de Fluidos LBM-D2Q4](./ImagenProyectoFinalAutomatas.png)
 
 # Simulador Aerodinámico y Termodinámico
 
