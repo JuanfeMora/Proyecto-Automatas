@@ -1,6 +1,4 @@
-### Grupo 1 
-### Materia: Autómatas Y Lenguajes Formales C2 
-### Líder: Juan Felipe Mora
+### Materia: Autómatas Y Lenguajes Formales C2 | Grupo: 1 | Líder: Juan Felipe Mora
 ### Integrantes: 
 Andrés Felipe Martínez, María Paula Herrera, Maia Catalina García, Johan Felipe Prado, Wilgton Sanchez, Juan José Monsalve, Frank Nicolás Chavez, Eduardo Zambrano y Yonier Gamboa Picón
 
