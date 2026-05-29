@@ -1,7 +1,7 @@
 ### Materia: Autómatas Y Lenguajes Formales C2 | Grupo: 1 | Líder: Juan Felipe Mora
 ### Integrantes: 
 Andrés Felipe Martínez, María Paula Herrera, Maia Catalina García, Johan Felipe Prado, Wilgton Sanchez, Juan José Monsalve, Frank Nicolás Chavez, Eduardo Zambrano y Yonier Gamboa Picón
-
+![[ImagenProyectoFinalAutomatas.png]]
 ---
 # Simulador Aerodinámico y Termodinámico
 
