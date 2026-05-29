@@ -1,3 +1,4 @@
+Paula Herrera
 # Documento Técnico: Arquitectura y Mejoras del Simulador (V2.0)
 
 Este documento detalla las optimizaciones algorítmicas, físicas y de interfaz implementadas en la versión del simulador basada en tensores y Pygame. El enfoque principal del rediseño fue maximizar la eficiencia computacional y la estabilidad matemática del autómata.
