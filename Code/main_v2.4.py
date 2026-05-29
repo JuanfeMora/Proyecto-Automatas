@@ -49,6 +49,12 @@ class TensorModel:
         self.tracers         = np.zeros((w, h), dtype=np.int8)
         self.wind            = np.zeros((4, w, h), dtype=np.int8)
 
+        # Inicializar bordes como muros sólidos para evitar wrap-around
+        self.materials[0, :] = MAT_WALL
+        self.materials[-1, :] = MAT_WALL
+        self.materials[:, 0] = MAT_WALL
+        self.materials[:, -1] = MAT_WALL
+
     def set_material(self, x, y, mat):        self.materials[x, y] = mat
     def set_static_pressure(self, x, y, val): self.static_pressure[x, y] = val
     def set_temperature(self, x, y, val):     self.temperature[x, y] = val
