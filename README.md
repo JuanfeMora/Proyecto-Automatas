@@ -1,3 +1,9 @@
+### Grupo 1 
+### Materia: Autómatas Y Lenguajes Formales C2 
+### Líder: Juan Felipe Mora
+### Integrantes: 
+Andrés Felipe Martínez, María Paula Herrera, Maia Catalina García, Johan Felipe Prado, Wilgton Sanchez, Juan José Monsalve, Frank Nicolás Chavez, Eduardo Zambrano y Yonier Gamboa Picón
+
 # Simulador Aerodinámico y Termodinámico
 
 Este proyecto implementa un simulador bidimensional de flujos de aire basado en un **Autómata de Gas Reticular (LGA)**, utilizando tensores matemáticos para resolver la advección, colisión y termodinámica de corrientes de aire en una cuadrícula discreta.
